@@ -7,7 +7,11 @@ public static void main(String[] args) {
 
 
 	 
-	System.out.println("2. kez conflict yapmak istiyoruz");
+
+	
+
+	System.out.println("We are against the conflict");
+
 
 	System.out.println("first commit from remote repository");
 
